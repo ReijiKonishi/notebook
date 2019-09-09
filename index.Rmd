@@ -2,12 +2,7 @@
 title: "TopPage"
 ---
 
-## index
+## 読書メモ
 
-### サンプル
-- hoge
-- huga
-
-## sample
-$x_1 = b_12 x_2 + e_1$
-
+### 可視化
+* [Storytelling with data](https://qiita.com/h1na/items/d305d49b5a27e92d132a)
