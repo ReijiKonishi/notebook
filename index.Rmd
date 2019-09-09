@@ -5,4 +5,4 @@ title: "TopPage"
 ## 読書メモ
 
 ### 可視化
-* [Storytelling with data](https://qiita.com/h1na/items/d305d49b5a27e92d132a)
+* [Storytelling with data](https://reijikonishi.github.io/notebook/Storytelling_with_data.html)
