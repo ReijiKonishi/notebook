@@ -1,6 +1,6 @@
 name: "サイトタイトル"
 navbar: 
-  title: "Koni_notebook"
+  title: "notebook"
   left:
     - text: "ホーム"
       href: index.html
