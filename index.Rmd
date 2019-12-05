@@ -9,22 +9,16 @@ title: "TopPage"
 
 ## Contents
 
-### Rパッケージ
+### [R package](R_package.html)
 
-* [{styler}](https://cran.r-project.org/web/packages/styler/index.html)
-  * https://styler.r-lib.org/index.html
-  * Rstudio上でRのcodeのコーディング規則を整えて綺麗にしてくれる
+* styler
+  * Rstudio上でRのcodeのコーディング規則を整理
 
-* [{dagitty}](https://cran.r-project.org/web/packages/dagitty/index.html)
-  * Directed Acyclic Graph (DAG)の分析パッケージ
-  * 因果効果推定のために調整すべき共変量を計算できる
-  * [入門 統計的因果推論](https://www.amazon.co.jp/dp/4254122411/)の練習問題を問いた[サイト](http://dagitty.net/primer/)
-
-* [{ggdag}](https://cran.r-project.org/web/packages/ggdag/index.html)
-  * https://ggdag.malco.io/index.html
-  * DAGをtidyに扱えるパッケージ
-  * {dagitty}、{ggraph}などと関連
-
+* dagitty
+  * Directed Acyclic Graph (DAG)の分析
+  
+* ggdag
+  * DAGのtidyな操作
 
 ### 発表資料
 
