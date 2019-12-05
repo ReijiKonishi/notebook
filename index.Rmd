@@ -1,17 +1,20 @@
 ---
 title: "TopPage"
+date: "`r format(Sys.time(),'%Y/%m/%d')`"
+output:
+  html_document:
+    toc: false
 ---
 
 なんとなく気になったパッケージや分析手法について個人的なメモとして残していきます。 </br>
 基本的にR関連が多い予定。
 
-最終更新日時:`r format(Sys.time(),'%Y/%m/%d')`
 
-## Contents
+## Contents {.col-md-8}
 
 ### [R package](R_package.html)
 
-* styler
+* [styler](R_package.html)
   * Rstudio上でRのcodeのコーディング規則を整理
 
 * dagitty
@@ -20,7 +23,14 @@ title: "TopPage"
 * ggdag
   * DAGのtidyな操作
 
-### 発表資料
+### スライド
 
 
 ### ブログ
+
+### 書籍
+
+## 更新履歴 {.col-md-4 .news}
+
+* 2019/12/06
+  * 開設
