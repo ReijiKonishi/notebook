@@ -6,22 +6,30 @@ output:
     toc: false
 ---
 
-なんとなく気になったパッケージや分析手法について個人的なメモとして残していきます。 </br>
-基本的にR関連が多い予定。
-
+なんとなく気になったパッケージや分析手法について個人的なメモとして残しています。
 
 ## Contents {.col-md-8}
 
-### [R package](R_package.html)
+ソートはアルファベット順
 
-* [styler](R_package.html)
-  * Rstudio上でRのcodeのコーディング規則を整理
+[R package](R_package.html)ではカテゴリ分類してます
 
-* dagitty
+### R package
+
+#### D
+
+* [dagitty](R_package.html#dagitty)
   * Directed Acyclic Graph (DAG)の分析
-  
-* ggdag
+
+#### G
+
+* [ggdag](R_package.html#ggdag)
   * DAGのtidyな操作
+
+#### S
+
+* [styler](R_package.html#styler)
+  * Rstudio上でRのcodeのコーディング規則を整理
 
 ### スライド
 
