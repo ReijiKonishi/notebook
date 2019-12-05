@@ -5,10 +5,7 @@ date: "`r format(Sys.time(),'%Y/%m/%d')`"
 
 やってみた系はそのうちやるつもり
 
-## styler
-* [CRAN](https://cran.r-project.org/web/packages/styler/index.html)
-* (https://styler.r-lib.org/index.html)
-* Rstudio上でRのcodeのコーディング規則を整えて綺麗にしてくれる
+# DAG関連
 
 ## dagitty
 * [CRAN](https://cran.r-project.org/web/packages/dagitty/index.html)
@@ -22,3 +19,9 @@ date: "`r format(Sys.time(),'%Y/%m/%d')`"
 * DAGをtidyに扱えるパッケージ
 * {dagitty}、{ggraph}などと関連
 
+# その他
+
+## styler
+* [CRAN](https://cran.r-project.org/web/packages/styler/index.html)
+* (https://styler.r-lib.org/index.html)
+* Rstudio上でRのcodeのコーディング規則を整えて綺麗にしてくれる
